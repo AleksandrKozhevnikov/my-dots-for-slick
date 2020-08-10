@@ -1,2 +1,1 @@
-# myfirst branch
-print("Hello World! ea!")
+That is my hacks in frontend development
