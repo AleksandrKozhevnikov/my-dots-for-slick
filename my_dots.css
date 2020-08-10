@@ -51,7 +51,7 @@
 	left: 0;
 	width: 20px;
 	height: 20px;
-	content: url('https://upload.wikimedia.org/wikipedia/commons/b/b7/Rule_Segment_-_Circle_open_-_20px.svg');
+	content: url('https://upload.wikimedia.org/wikipedia/commons/b/b7/Rule_Segment_-_Circle_open_-_20px.svg'); /* <-- that is your dot */
 	text-align: center;
 	opacity: .25;
 	color: black;
